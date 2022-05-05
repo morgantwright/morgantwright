@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Morgan
+- 👀 I’m interested in cybersecurity, cloud security and software development. 
+- 🌱 I’m currently learning HTML, CSS & JavaScript. 
+- 📫 How to reach me on LinkedIn. https://linkedin.com/in/morgan-taylor-wright
